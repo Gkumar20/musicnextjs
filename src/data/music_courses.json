@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://as1.ftcdn.net/v2/jpg/09/35/76/82/1000_F_935768228_Nw8tmDWcm8PCzFtAuWhG71RDhqm9mgDi.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://as2.ftcdn.net/v2/jpg/08/40/50/67/1000_F_840506758_2UwIr5LdoD4fGseiBLiH7sNNYOql4sEX.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced Vocal Techniques",
+        "slug": "advanced-vocal-techniques",
+        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://as1.ftcdn.net/v2/jpg/02/48/27/36/1000_F_248273656_syOBUZR0oLO2DAu5TqFj8mYfL1YdWsvE.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "https://as2.ftcdn.net/v2/jpg/04/73/01/01/1000_F_473010129_c0LfLLhmTilFWCDGFwVNng6QTfa8UR1F.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "https://as2.ftcdn.net/v2/jpg/08/04/10/39/1000_F_804103962_oFiaWtoVVBbYAUfzfTVWd53tNVwRPcNW.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Production Fundamentals",
+        "slug": "music-production-fundamentals",
+        "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "https://as2.ftcdn.net/v2/jpg/07/82/07/61/1000_F_782076141_CTklUIPRFTOPYY1VFaru8x1qnauSKy6L.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "https://as1.ftcdn.net/v2/jpg/08/10/69/12/1000_F_810691240_CXiczBB4OLy6DZs7VzF2bLomcMADX7V8.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "https://as1.ftcdn.net/v2/jpg/07/78/76/78/1000_F_778767816_Jb4eVoUyYTGl08mWjpmX7sll5nIiy9OW.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "slug": "classical-music-history",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "https://as2.ftcdn.net/v2/jpg/08/55/82/93/1000_F_855829385_R8Rn2oo9RLY0vV2WiMU0ufY95B3SgpHB.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Blues Guitar Techniques",
+        "slug": "blues-guitar-techniques",
+        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://as1.ftcdn.net/v2/jpg/08/79/56/72/1000_F_879567272_VQ83psXCjlLuohaEHfMY6GPWmvXj4CgB.jpg"
+      }
+    ]
+  }
+  

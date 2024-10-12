@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Elena Briggs",
+      "designation": "Vocal Coach",
+      "image": "https://images.unsplash.com/photo-1614502875832-77fe801288ba?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Reid",
+      "designation": "Guitar Instructor",
+      "image": "https://images.unsplash.com/photo-1614502875832-77fe801288ba?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Sophie Johnson",
+      "designation": "Piano Teacher",
+      "image": "https://images.unsplash.com/photo-1658932447761-8a59cd02d201?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "James Smith",
+      "designation": "Drum Instructor",
+      "image": "https://images.unsplash.com/photo-1614502875832-77fe801288ba?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
